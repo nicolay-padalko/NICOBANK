@@ -90,10 +90,10 @@ export default function Main() {
             </CardHeader>
             <CardContent>
               <Title>Saldo disponível</Title>
-              <Description>R$ 230.456,00</Description>
+              <Description>R$ 30.456,00</Description>
             </CardContent>
             <CardFooter>
-              <Annotation>Transferência de R$ 39,00 de Wlad Putin</Annotation>
+              <Annotation>Transferência de R$ 1239,00 de Vlad Putin</Annotation>
             </CardFooter>
           </Card>
         </PanGestureHandler>
