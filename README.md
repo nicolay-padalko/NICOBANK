@@ -1,5 +1,5 @@
 # NICOBANK
-tela inicial do Nubank em Reac tNative
+tela inicial do Nubank em React Native
 
 ![Screenshot](/images/tela01.jpg)
 ![Screenshot](/images/tela02.jpg)
