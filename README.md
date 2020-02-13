@@ -1,6 +1,6 @@
 # NICOBANK
 tela inicial do Nubank em React Native
 
-![Screenshot](/images/tela01.jpg)
-![Screenshot](/images/tela02.jpg)
-![Screenshot](/images/tela03.jpg)
+![tela1](/images/tela01.jpg)
+![tela2](/images/tela02.jpg)
+![tela3](/images/tela03.jpg)
